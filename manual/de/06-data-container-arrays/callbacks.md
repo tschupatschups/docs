@@ -22,7 +22,7 @@ der Contao Core-Engine angepasst werden.
 <tr>
   <td>onsubmit_callback</td>
   <td>Wird beim Abschicken eines Backend-Formulars ausgeführt. Ermöglicht z.B.
-      die Modifizierung der Formulardaten, bevor diese in die Datenbank
+      die Modifizierung der Formulardaten, nachdem diese in die Datenbank
       geschrieben werden (wird in der Kalender-Erweiterung zur
       Intervalberechnung eingesetzt).</td>
 </tr>
